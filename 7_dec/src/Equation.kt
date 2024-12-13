@@ -1,0 +1,1 @@
+class Equation(val result: Long, val components: List<Long>) {}
