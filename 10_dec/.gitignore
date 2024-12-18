@@ -1,0 +1,6 @@
+.idea
+.bsp
+target
+project
+src/main/resources/*
+build.sbt
